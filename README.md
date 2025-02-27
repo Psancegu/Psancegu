@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pol Sances</h1>
-<h3 align="center">A Computer Engeering Student at Universitat de Barcelona</h3>
+<h3 align="center">A Computer Engineering Student at Universitat de Barcelona</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
